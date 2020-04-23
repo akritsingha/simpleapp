@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:brandiqa/simplewebrtc-messenger.git"
+    "url": "git@github.com:akritsingha/topdemo.git"
   },
   "dependencies": {
     "express": "^4.16.3",
